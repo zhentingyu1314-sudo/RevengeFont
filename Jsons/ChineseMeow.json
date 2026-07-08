@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "方正喵嗚体",
+    "previewText": "方正喵嗚字體",
+    "main": {
+        "ABCGintoNord-ExtraBold": "",
+        "ggsans-Bold": "",
+        "ggsans-BoldItalic": "",
+        "ggsans-ExtraBold": "",
+        "ggsans-ExtraBoldItalic": "",
+        "ggsans-Medium": "",
+        "ggsans-MediumItalic": "",
+        "ggsans-Normal": "",
+        "ggsans-NormalItalic": "",
+        "ggsans-Semibold": "",
+        "ggsans-SemiboldItalic": "",
+        "NotoSans-Bold": "",
+        "NotoSans-ExtraBold": "",
+        "NotoSans-Medium": "",
+        "NotoSans-Normal": "",
+        "NotoSans-NormalItalic": "",
+        "NotoSans-Semibold": "",
+        "SourceCodePro-Semibold": ""
+    }
+}
